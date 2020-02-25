@@ -40,5 +40,7 @@ public class test {
         maps.put("3",u3);
         String s = JSON.toJSONString(maps);
         System.out.println(s);
+        System.out.println("diyici");
+
     }
 }
